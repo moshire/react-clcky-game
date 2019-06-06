@@ -1,8 +1,8 @@
 //imports dependencies and files
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
-import Jumbotron from "./components/Jumbotron";
-import FriendCard from "./components/FriendCard";
+import Jumbotron from "./components/jumbotron";
+import FriendCard from "./components/friendCard";
 import Footer from "./components/footer";
 import fish from "./fish.json";
 import "./app.css";
