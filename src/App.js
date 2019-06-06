@@ -3,9 +3,9 @@ import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import FriendCard from "./components/FriendCard";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import fish from "./fish.json";
-import "./App.css";
+import "./app.css";
 
 //sets state to 0 or empty
 class App extends Component {

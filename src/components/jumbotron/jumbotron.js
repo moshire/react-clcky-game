@@ -1,6 +1,6 @@
 //sets up the reusable Jumbotron component
 import React from "react";
-import "./Jumbotron.css";
+import "./jumbotron.css";
 
 const Jumbotron = () => (
 	<header className = "header">
